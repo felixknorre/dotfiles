@@ -1,2 +1,2 @@
 # dotfiles
-backup of my dot files
+backup of my dotfiles
