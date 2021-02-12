@@ -1,0 +1,6 @@
+[user]
+	name = Felix Knorre
+	email = felix-knorre@hotmail.de
+
+[credential]
+  helper = store
